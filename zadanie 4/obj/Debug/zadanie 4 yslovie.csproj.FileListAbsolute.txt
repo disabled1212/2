@@ -1,0 +1,6 @@
+C:\Users\Студент\source\repos\zadanie 4\bin\Debug\zadanie 4.exe.config
+C:\Users\Студент\source\repos\zadanie 4\bin\Debug\zadanie 4.exe
+C:\Users\Студент\source\repos\zadanie 4\bin\Debug\zadanie 4.pdb
+C:\Users\Студент\source\repos\zadanie 4\obj\Debug\zadanie 4 yslovie.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\zadanie 4\obj\Debug\zadanie 4.exe
+C:\Users\Студент\source\repos\zadanie 4\obj\Debug\zadanie 4.pdb

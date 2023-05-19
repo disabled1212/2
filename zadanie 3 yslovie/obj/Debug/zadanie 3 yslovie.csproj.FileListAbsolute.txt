@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\zadanie 3 yslovie\bin\Debug\zadanie 3 yslovie.exe.config
+C:\Users\Студент\source\repos\zadanie 3 yslovie\bin\Debug\zadanie 3 yslovie.exe
+C:\Users\Студент\source\repos\zadanie 3 yslovie\bin\Debug\zadanie 3 yslovie.pdb
+C:\Users\Студент\source\repos\zadanie 3 yslovie\obj\Debug\zadanie 3 yslovie.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\zadanie 3 yslovie\obj\Debug\zadanie 3 yslovie.exe
+C:\Users\Студент\source\repos\zadanie 3 yslovie\obj\Debug\zadanie 3 yslovie.pdb
+C:\Users\Студент\source\repos\zadanie 3 yslovie\obj\Debug\zadanie 3 yslovie.csproj.AssemblyReference.cache

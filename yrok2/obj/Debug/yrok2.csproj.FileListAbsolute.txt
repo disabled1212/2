@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\yrok2\bin\Debug\yrok2.exe.config
+C:\Users\Студент\source\repos\yrok2\bin\Debug\yrok2.exe
+C:\Users\Студент\source\repos\yrok2\bin\Debug\yrok2.pdb
+C:\Users\Студент\source\repos\yrok2\obj\Debug\yrok2.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\yrok2\obj\Debug\yrok2.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\yrok2\obj\Debug\yrok2.exe
+C:\Users\Студент\source\repos\yrok2\obj\Debug\yrok2.pdb

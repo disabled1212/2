@@ -1,0 +1,6 @@
+C:\Users\Студент\source\repos\zadanie 2 yslovie\bin\Debug\zadanie 2 yslovie.exe.config
+C:\Users\Студент\source\repos\zadanie 2 yslovie\bin\Debug\zadanie 2 yslovie.exe
+C:\Users\Студент\source\repos\zadanie 2 yslovie\bin\Debug\zadanie 2 yslovie.pdb
+C:\Users\Студент\source\repos\zadanie 2 yslovie\obj\Debug\zadanie 2 yslovie.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\zadanie 2 yslovie\obj\Debug\zadanie 2 yslovie.exe
+C:\Users\Студент\source\repos\zadanie 2 yslovie\obj\Debug\zadanie 2 yslovie.pdb

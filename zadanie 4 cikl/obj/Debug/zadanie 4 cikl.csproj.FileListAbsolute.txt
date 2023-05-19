@@ -1,0 +1,6 @@
+C:\Users\Студент\source\repos\zadanie 4 cikl\bin\Debug\zadanie 4 cikl.exe.config
+C:\Users\Студент\source\repos\zadanie 4 cikl\bin\Debug\zadanie 4 cikl.exe
+C:\Users\Студент\source\repos\zadanie 4 cikl\bin\Debug\zadanie 4 cikl.pdb
+C:\Users\Студент\source\repos\zadanie 4 cikl\obj\Debug\zadanie 4 cikl.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\zadanie 4 cikl\obj\Debug\zadanie 4 cikl.exe
+C:\Users\Студент\source\repos\zadanie 4 cikl\obj\Debug\zadanie 4 cikl.pdb
