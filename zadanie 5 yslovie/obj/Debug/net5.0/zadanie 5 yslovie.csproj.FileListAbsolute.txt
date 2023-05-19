@@ -1,0 +1,16 @@
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.exe
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.deps.json
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.runtimeconfig.json
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.runtimeconfig.dev.json
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.dll
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\ref\zadanie 5 yslovie.dll
+C:\Users\Студент\source\repos\zadanie 5 yslovie\bin\Debug\net5.0\zadanie 5 yslovie.pdb
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.AssemblyInfo.cs
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.dll
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\ref\zadanie 5 yslovie.dll
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.pdb
+C:\Users\Студент\source\repos\zadanie 5 yslovie\obj\Debug\net5.0\zadanie 5 yslovie.genruntimeconfig.cache
